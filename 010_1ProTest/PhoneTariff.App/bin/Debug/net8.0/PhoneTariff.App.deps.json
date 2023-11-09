@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PhoneTariff.App/1.0.0": {
+        "dependencies": {
+          "PhoneTariff.Logic": "1.0.0"
+        },
+        "runtime": {
+          "PhoneTariff.App.dll": {}
+        }
+      },
+      "PhoneTariff.Logic/1.0.0": {
+        "runtime": {
+          "PhoneTariff.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PhoneTariff.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PhoneTariff.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

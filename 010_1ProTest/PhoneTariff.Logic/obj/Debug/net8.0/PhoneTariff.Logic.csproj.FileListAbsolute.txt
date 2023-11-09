@@ -1,0 +1,11 @@
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\010_1ProTest\PhoneTariff.Logic\bin\Debug\net8.0\PhoneTariff.Logic.deps.json
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\010_1ProTest\PhoneTariff.Logic\bin\Debug\net8.0\PhoneTariff.Logic.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\010_1ProTest\PhoneTariff.Logic\bin\Debug\net8.0\PhoneTariff.Logic.pdb
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\010_1ProTest\PhoneTariff.Logic\obj\Debug\net8.0\PhoneTariff.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\010_1ProTest\PhoneTariff.Logic\obj\Debug\net8.0\PhoneTariff.Logic.AssemblyInfoInputs.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\010_1ProTest\PhoneTariff.Logic\obj\Debug\net8.0\PhoneTariff.Logic.AssemblyInfo.cs
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\010_1ProTest\PhoneTariff.Logic\obj\Debug\net8.0\PhoneTariff.Logic.csproj.CoreCompileInputs.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\010_1ProTest\PhoneTariff.Logic\obj\Debug\net8.0\PhoneTariff.Logic.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\010_1ProTest\PhoneTariff.Logic\obj\Debug\net8.0\refint\PhoneTariff.Logic.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\010_1ProTest\PhoneTariff.Logic\obj\Debug\net8.0\PhoneTariff.Logic.pdb
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\010_1ProTest\PhoneTariff.Logic\obj\Debug\net8.0\ref\PhoneTariff.Logic.dll

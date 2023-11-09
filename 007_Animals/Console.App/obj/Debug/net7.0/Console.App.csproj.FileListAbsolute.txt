@@ -1,0 +1,14 @@
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\007_Animals\Console.App\bin\Debug\net7.0\Console.App.exe
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\007_Animals\Console.App\bin\Debug\net7.0\Console.App.deps.json
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\007_Animals\Console.App\bin\Debug\net7.0\Console.App.runtimeconfig.json
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\007_Animals\Console.App\bin\Debug\net7.0\Console.App.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\007_Animals\Console.App\bin\Debug\net7.0\Console.App.pdb
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\007_Animals\Console.App\obj\Debug\net7.0\Console.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\007_Animals\Console.App\obj\Debug\net7.0\Console.App.AssemblyInfoInputs.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\007_Animals\Console.App\obj\Debug\net7.0\Console.App.AssemblyInfo.cs
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\007_Animals\Console.App\obj\Debug\net7.0\Console.App.csproj.CoreCompileInputs.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\007_Animals\Console.App\obj\Debug\net7.0\Console.App.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\007_Animals\Console.App\obj\Debug\net7.0\refint\Console.App.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\007_Animals\Console.App\obj\Debug\net7.0\Console.App.pdb
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\007_Animals\Console.App\obj\Debug\net7.0\Console.App.genruntimeconfig.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\007_Animals\Console.App\obj\Debug\net7.0\ref\Console.App.dll

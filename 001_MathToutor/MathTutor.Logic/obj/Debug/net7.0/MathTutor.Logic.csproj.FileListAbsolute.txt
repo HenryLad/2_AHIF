@@ -1,0 +1,12 @@
+C:\Proo\001_MathToutor\MathTutor.Logic\bin\Debug\net7.0\MathTutor.Logic.deps.json
+C:\Proo\001_MathToutor\MathTutor.Logic\bin\Debug\net7.0\MathTutor.Logic.dll
+C:\Proo\001_MathToutor\MathTutor.Logic\bin\Debug\net7.0\MathTutor.Logic.pdb
+C:\Proo\001_MathToutor\MathTutor.Logic\obj\Debug\net7.0\MathTutor.Logic.csproj.AssemblyReference.cache
+C:\Proo\001_MathToutor\MathTutor.Logic\obj\Debug\net7.0\MathTutor.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proo\001_MathToutor\MathTutor.Logic\obj\Debug\net7.0\MathTutor.Logic.AssemblyInfoInputs.cache
+C:\Proo\001_MathToutor\MathTutor.Logic\obj\Debug\net7.0\MathTutor.Logic.AssemblyInfo.cs
+C:\Proo\001_MathToutor\MathTutor.Logic\obj\Debug\net7.0\MathTutor.Logic.csproj.CoreCompileInputs.cache
+C:\Proo\001_MathToutor\MathTutor.Logic\obj\Debug\net7.0\MathTutor.Logic.dll
+C:\Proo\001_MathToutor\MathTutor.Logic\obj\Debug\net7.0\refint\MathTutor.Logic.dll
+C:\Proo\001_MathToutor\MathTutor.Logic\obj\Debug\net7.0\MathTutor.Logic.pdb
+C:\Proo\001_MathToutor\MathTutor.Logic\obj\Debug\net7.0\ref\MathTutor.Logic.dll

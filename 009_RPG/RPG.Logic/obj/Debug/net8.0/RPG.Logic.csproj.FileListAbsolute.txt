@@ -1,0 +1,11 @@
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\009_RPG\RPG.Logic\bin\Debug\net8.0\RPG.Logic.deps.json
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\009_RPG\RPG.Logic\bin\Debug\net8.0\RPG.Logic.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\009_RPG\RPG.Logic\bin\Debug\net8.0\RPG.Logic.pdb
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\009_RPG\RPG.Logic\obj\Debug\net8.0\RPG.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\009_RPG\RPG.Logic\obj\Debug\net8.0\RPG.Logic.AssemblyInfoInputs.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\009_RPG\RPG.Logic\obj\Debug\net8.0\RPG.Logic.AssemblyInfo.cs
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\009_RPG\RPG.Logic\obj\Debug\net8.0\RPG.Logic.csproj.CoreCompileInputs.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\009_RPG\RPG.Logic\obj\Debug\net8.0\RPG.Logic.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\009_RPG\RPG.Logic\obj\Debug\net8.0\refint\RPG.Logic.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\009_RPG\RPG.Logic\obj\Debug\net8.0\RPG.Logic.pdb
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\009_RPG\RPG.Logic\obj\Debug\net8.0\ref\RPG.Logic.dll

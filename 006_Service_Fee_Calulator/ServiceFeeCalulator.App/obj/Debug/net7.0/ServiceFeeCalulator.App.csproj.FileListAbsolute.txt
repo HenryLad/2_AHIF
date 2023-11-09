@@ -1,0 +1,14 @@
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\006_Service_Fee_Calulator\ServiceFeeCalulator.App\bin\Debug\net7.0\ServiceFeeCalulator.App.exe
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\006_Service_Fee_Calulator\ServiceFeeCalulator.App\bin\Debug\net7.0\ServiceFeeCalulator.App.deps.json
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\006_Service_Fee_Calulator\ServiceFeeCalulator.App\bin\Debug\net7.0\ServiceFeeCalulator.App.runtimeconfig.json
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\006_Service_Fee_Calulator\ServiceFeeCalulator.App\bin\Debug\net7.0\ServiceFeeCalulator.App.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\006_Service_Fee_Calulator\ServiceFeeCalulator.App\bin\Debug\net7.0\ServiceFeeCalulator.App.pdb
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\006_Service_Fee_Calulator\ServiceFeeCalulator.App\obj\Debug\net7.0\ServiceFeeCalulator.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\006_Service_Fee_Calulator\ServiceFeeCalulator.App\obj\Debug\net7.0\ServiceFeeCalulator.App.AssemblyInfoInputs.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\006_Service_Fee_Calulator\ServiceFeeCalulator.App\obj\Debug\net7.0\ServiceFeeCalulator.App.AssemblyInfo.cs
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\006_Service_Fee_Calulator\ServiceFeeCalulator.App\obj\Debug\net7.0\ServiceFeeCalulator.App.csproj.CoreCompileInputs.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\006_Service_Fee_Calulator\ServiceFeeCalulator.App\obj\Debug\net7.0\ServiceFeeCalulator.App.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\006_Service_Fee_Calulator\ServiceFeeCalulator.App\obj\Debug\net7.0\refint\ServiceFeeCalulator.App.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\006_Service_Fee_Calulator\ServiceFeeCalulator.App\obj\Debug\net7.0\ServiceFeeCalulator.App.pdb
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\006_Service_Fee_Calulator\ServiceFeeCalulator.App\obj\Debug\net7.0\ServiceFeeCalulator.App.genruntimeconfig.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\006_Service_Fee_Calulator\ServiceFeeCalulator.App\obj\Debug\net7.0\ref\ServiceFeeCalulator.App.dll

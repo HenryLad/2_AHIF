@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MathTutor.App/1.0.0": {
+        "dependencies": {
+          "MathTutor.Logic": "1.0.0"
+        },
+        "runtime": {
+          "MathTutor.App.dll": {}
+        }
+      },
+      "MathTutor.Logic/1.0.0": {
+        "runtime": {
+          "MathTutor.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathTutor.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathTutor.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

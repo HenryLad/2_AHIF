@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\010_1ProTest\\PhoneTariff.Logic\\PhoneTariff.Logic.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\010_1ProTest\\PhoneTariff.Logic\\PhoneTariff.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\010_1ProTest\\PhoneTariff.Logic\\PhoneTariff.Logic.csproj",
+        "projectName": "PhoneTariff.Logic",
+        "projectPath": "C:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\010_1ProTest\\PhoneTariff.Logic\\PhoneTariff.Logic.csproj",
+        "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\010_1ProTest\\PhoneTariff.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23463.5/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

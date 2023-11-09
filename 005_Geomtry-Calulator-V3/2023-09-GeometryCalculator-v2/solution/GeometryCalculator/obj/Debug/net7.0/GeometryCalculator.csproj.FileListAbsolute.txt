@@ -1,0 +1,11 @@
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\005_Geomtry-Calulator-V3\2023-09-GeometryCalculator-v2\solution\GeometryCalculator\bin\Debug\net7.0\GeometryCalculator.deps.json
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\005_Geomtry-Calulator-V3\2023-09-GeometryCalculator-v2\solution\GeometryCalculator\bin\Debug\net7.0\GeometryCalculator.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\005_Geomtry-Calulator-V3\2023-09-GeometryCalculator-v2\solution\GeometryCalculator\bin\Debug\net7.0\GeometryCalculator.pdb
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\005_Geomtry-Calulator-V3\2023-09-GeometryCalculator-v2\solution\GeometryCalculator\obj\Debug\net7.0\GeometryCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\005_Geomtry-Calulator-V3\2023-09-GeometryCalculator-v2\solution\GeometryCalculator\obj\Debug\net7.0\GeometryCalculator.AssemblyInfoInputs.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\005_Geomtry-Calulator-V3\2023-09-GeometryCalculator-v2\solution\GeometryCalculator\obj\Debug\net7.0\GeometryCalculator.AssemblyInfo.cs
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\005_Geomtry-Calulator-V3\2023-09-GeometryCalculator-v2\solution\GeometryCalculator\obj\Debug\net7.0\GeometryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\005_Geomtry-Calulator-V3\2023-09-GeometryCalculator-v2\solution\GeometryCalculator\obj\Debug\net7.0\GeometryCalculator.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\005_Geomtry-Calulator-V3\2023-09-GeometryCalculator-v2\solution\GeometryCalculator\obj\Debug\net7.0\refint\GeometryCalculator.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\005_Geomtry-Calulator-V3\2023-09-GeometryCalculator-v2\solution\GeometryCalculator\obj\Debug\net7.0\GeometryCalculator.pdb
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\005_Geomtry-Calulator-V3\2023-09-GeometryCalculator-v2\solution\GeometryCalculator\obj\Debug\net7.0\ref\GeometryCalculator.dll

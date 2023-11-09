@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ServiceFeeCalulator.App/1.0.0": {
+        "runtime": {
+          "ServiceFeeCalulator.App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ServiceFeeCalulator.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
