@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Queue.Logic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Queue.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Queue.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Queue.Logic/1.0.0": {
+      "type": "project",
+      "path": "../Queue.Logic/Queue.Logic.csproj",
+      "msbuildProject": "../Queue.Logic/Queue.Logic.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Queue.Logic >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\henry\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\013_Restaurant-Queue\\Queue.App\\Queue.App.csproj",
+      "projectName": "Queue.App",
+      "projectPath": "C:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\013_Restaurant-Queue\\Queue.App\\Queue.App.csproj",
+      "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\013_Restaurant-Queue\\Queue.App\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\013_Restaurant-Queue\\Queue.Logic\\Queue.Logic.csproj": {
+              "projectPath": "C:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\013_Restaurant-Queue\\Queue.Logic\\Queue.Logic.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
