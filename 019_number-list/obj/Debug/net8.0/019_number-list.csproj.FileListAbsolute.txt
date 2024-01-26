@@ -1,0 +1,15 @@
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\019_number-list\bin\Debug\net8.0\019_number-list.exe
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\019_number-list\bin\Debug\net8.0\019_number-list.deps.json
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\019_number-list\bin\Debug\net8.0\019_number-list.runtimeconfig.json
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\019_number-list\bin\Debug\net8.0\019_number-list.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\019_number-list\bin\Debug\net8.0\019_number-list.pdb
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\019_number-list\obj\Debug\net8.0\019_number-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\019_number-list\obj\Debug\net8.0\019_number-list.AssemblyInfoInputs.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\019_number-list\obj\Debug\net8.0\019_number-list.AssemblyInfo.cs
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\019_number-list\obj\Debug\net8.0\019_number-list.csproj.CoreCompileInputs.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\019_number-list\obj\Debug\net8.0\019_number-list.sourcelink.json
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\019_number-list\obj\Debug\net8.0\019_number-list.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\019_number-list\obj\Debug\net8.0\refint\019_number-list.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\019_number-list\obj\Debug\net8.0\019_number-list.pdb
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\019_number-list\obj\Debug\net8.0\019_number-list.genruntimeconfig.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\019_number-list\obj\Debug\net8.0\ref\019_number-list.dll
