@@ -4,7 +4,7 @@
 
 using System.Globalization;
 
-List<long> number = [];
+
 
 /*
 inPlace.GenerateNumbers(1, 100);
@@ -110,7 +110,7 @@ static class NewList
    // Generate a list of numbers between start and end
    public static List<long> GenerateNumbers(long start, long end)
    {
-      List<long> numbers = new List<long>();
+      List<long> numbers = [];
       for (long i = start; i <= end; i++)
       {
          numbers.Add(i);
@@ -121,11 +121,12 @@ static class NewList
    // Behind each pair of numbers, insert the sum of the number pair.
    public static List<long> InsertSumAfterPairs(List<long> numbers)
    {
+      List<long> newNumbers = [];
       for (int n = 0; n < numbers.Count - 1; n += 3)
       {
-         numbers.Insert(n + 2, numbers[n + 1] + numbers[n]);
+         newNumbers.Insert(n + 2, numbers[n + 1] + numbers[n]);
       }
-      return numbers;
+      return newNumbers;   
    }
 
    // Remove all even numbers from the list

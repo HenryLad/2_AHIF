@@ -1,0 +1,15 @@
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\Übungen\bin\Debug\net8.0\Übungen.exe
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\Übungen\bin\Debug\net8.0\Übungen.deps.json
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\Übungen\bin\Debug\net8.0\Übungen.runtimeconfig.json
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\Übungen\bin\Debug\net8.0\Übungen.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\Übungen\bin\Debug\net8.0\Übungen.pdb
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\Übungen\obj\Debug\net8.0\Übungen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\Übungen\obj\Debug\net8.0\Übungen.AssemblyInfoInputs.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\Übungen\obj\Debug\net8.0\Übungen.AssemblyInfo.cs
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\Übungen\obj\Debug\net8.0\Übungen.csproj.CoreCompileInputs.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\Übungen\obj\Debug\net8.0\Übungen.sourcelink.json
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\Übungen\obj\Debug\net8.0\Übungen.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\Übungen\obj\Debug\net8.0\refint\Übungen.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\Übungen\obj\Debug\net8.0\Übungen.pdb
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\Übungen\obj\Debug\net8.0\Übungen.genruntimeconfig.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\Übungen\obj\Debug\net8.0\ref\Übungen.dll

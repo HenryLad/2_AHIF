@@ -1,0 +1,12 @@
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\013_Restaurant-Queue\Queue.Logic\bin\Debug\net8.0\Queue.Logic.deps.json
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\013_Restaurant-Queue\Queue.Logic\bin\Debug\net8.0\Queue.Logic.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\013_Restaurant-Queue\Queue.Logic\bin\Debug\net8.0\Queue.Logic.pdb
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\013_Restaurant-Queue\Queue.Logic\obj\Debug\net8.0\Queue.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\013_Restaurant-Queue\Queue.Logic\obj\Debug\net8.0\Queue.Logic.AssemblyInfoInputs.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\013_Restaurant-Queue\Queue.Logic\obj\Debug\net8.0\Queue.Logic.AssemblyInfo.cs
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\013_Restaurant-Queue\Queue.Logic\obj\Debug\net8.0\Queue.Logic.csproj.CoreCompileInputs.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\013_Restaurant-Queue\Queue.Logic\obj\Debug\net8.0\Queue.Logic.sourcelink.json
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\013_Restaurant-Queue\Queue.Logic\obj\Debug\net8.0\Queue.Logic.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\013_Restaurant-Queue\Queue.Logic\obj\Debug\net8.0\refint\Queue.Logic.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\013_Restaurant-Queue\Queue.Logic\obj\Debug\net8.0\Queue.Logic.pdb
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\013_Restaurant-Queue\Queue.Logic\obj\Debug\net8.0\ref\Queue.Logic.dll

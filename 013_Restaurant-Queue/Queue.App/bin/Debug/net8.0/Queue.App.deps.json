@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Queue.App/1.0.0": {
+        "dependencies": {
+          "Queue.Logic": "1.0.0"
+        },
+        "runtime": {
+          "Queue.App.dll": {}
+        }
+      },
+      "Queue.Logic/1.0.0": {
+        "runtime": {
+          "Queue.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Queue.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Queue.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

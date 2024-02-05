@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Clothes.App/1.0.0": {
+        "dependencies": {
+          "Clothes.Logic": "1.0.0"
+        },
+        "runtime": {
+          "Clothes.App.dll": {}
+        }
+      },
+      "Clothes.Logic/1.0.0": {
+        "runtime": {
+          "Clothes.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clothes.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clothes.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

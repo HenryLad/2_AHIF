@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\012_Garage\\Garage.Logic\\Garage.Logic.csproj": {}
+    "c:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\012_Garage\\Garage.Logic\\Garage.Logic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\012_Garage\\Garage.Logic\\Garage.Logic.csproj": {
+    "c:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\012_Garage\\Garage.Logic\\Garage.Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\012_Garage\\Garage.Logic\\Garage.Logic.csproj",
+        "projectUniqueName": "c:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\012_Garage\\Garage.Logic\\Garage.Logic.csproj",
         "projectName": "Garage.Logic",
-        "projectPath": "C:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\012_Garage\\Garage.Logic\\Garage.Logic.csproj",
+        "projectPath": "c:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\012_Garage\\Garage.Logic\\Garage.Logic.csproj",
         "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\012_Garage\\Garage.Logic\\obj\\",
+        "outputPath": "c:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\012_Garage\\Garage.Logic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config"

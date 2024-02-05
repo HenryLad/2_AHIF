@@ -5,15 +5,12 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue.Logic", "Queue.Logic\Queue.Logic.csproj", "{E1D61E4C-4001-4617-BB50-2CAC3224ADA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue.App", "Queue.App\Queue.App.csproj", "{A1657E20-98A8-4091-BD44-B483457BDB07}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fornite.App", "Queue.App\Fornite.App.csproj", "{A1657E20-98A8-4091-BD44-B483457BDB07}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{E1D61E4C-4001-4617-BB50-2CAC3224ADA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -24,5 +21,8 @@ Global
 		{A1657E20-98A8-4091-BD44-B483457BDB07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1657E20-98A8-4091-BD44-B483457BDB07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1657E20-98A8-4091-BD44-B483457BDB07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\015_Strinreihe\Strinreihe.Logic\bin\Debug\net8.0\Strinreihe.Logic.deps.json
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\015_Strinreihe\Strinreihe.Logic\bin\Debug\net8.0\Strinreihe.Logic.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\015_Strinreihe\Strinreihe.Logic\bin\Debug\net8.0\Strinreihe.Logic.pdb
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\015_Strinreihe\Strinreihe.Logic\obj\Debug\net8.0\Strinreihe.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\015_Strinreihe\Strinreihe.Logic\obj\Debug\net8.0\Strinreihe.Logic.AssemblyInfoInputs.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\015_Strinreihe\Strinreihe.Logic\obj\Debug\net8.0\Strinreihe.Logic.AssemblyInfo.cs
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\015_Strinreihe\Strinreihe.Logic\obj\Debug\net8.0\Strinreihe.Logic.csproj.CoreCompileInputs.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\015_Strinreihe\Strinreihe.Logic\obj\Debug\net8.0\Strinreihe.Logic.sourcelink.json
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\015_Strinreihe\Strinreihe.Logic\obj\Debug\net8.0\Strinreihe.Logic.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\015_Strinreihe\Strinreihe.Logic\obj\Debug\net8.0\refint\Strinreihe.Logic.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\015_Strinreihe\Strinreihe.Logic\obj\Debug\net8.0\Strinreihe.Logic.pdb
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\015_Strinreihe\Strinreihe.Logic\obj\Debug\net8.0\ref\Strinreihe.Logic.dll

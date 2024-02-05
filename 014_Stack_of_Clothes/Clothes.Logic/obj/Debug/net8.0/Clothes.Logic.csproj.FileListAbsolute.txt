@@ -1,0 +1,12 @@
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\014_Stack_of_Clothes\Clothes.Logic\bin\Debug\net8.0\Clothes.Logic.deps.json
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\014_Stack_of_Clothes\Clothes.Logic\bin\Debug\net8.0\Clothes.Logic.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\014_Stack_of_Clothes\Clothes.Logic\bin\Debug\net8.0\Clothes.Logic.pdb
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\014_Stack_of_Clothes\Clothes.Logic\obj\Debug\net8.0\Clothes.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\014_Stack_of_Clothes\Clothes.Logic\obj\Debug\net8.0\Clothes.Logic.AssemblyInfoInputs.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\014_Stack_of_Clothes\Clothes.Logic\obj\Debug\net8.0\Clothes.Logic.AssemblyInfo.cs
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\014_Stack_of_Clothes\Clothes.Logic\obj\Debug\net8.0\Clothes.Logic.csproj.CoreCompileInputs.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\014_Stack_of_Clothes\Clothes.Logic\obj\Debug\net8.0\Clothes.Logic.sourcelink.json
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\014_Stack_of_Clothes\Clothes.Logic\obj\Debug\net8.0\Clothes.Logic.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\014_Stack_of_Clothes\Clothes.Logic\obj\Debug\net8.0\refint\Clothes.Logic.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\014_Stack_of_Clothes\Clothes.Logic\obj\Debug\net8.0\Clothes.Logic.pdb
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\014_Stack_of_Clothes\Clothes.Logic\obj\Debug\net8.0\ref\Clothes.Logic.dll
