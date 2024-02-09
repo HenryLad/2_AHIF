@@ -1,2 +1,2 @@
 # 2_AHIF
-Alles was wir in Programmieren machen
+Everything we did in our Programming course with Rainer Stropek(rstropek)
