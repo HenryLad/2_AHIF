@@ -14,7 +14,32 @@ public class PossibleNumbers
     /// </remarks>
     public PossibleNumbers()
     {
-        // TODO: Implement this method
+        SingleNumbers.AddRange(Enumerable.Range(0, 37));
+        RedBlack[1] = SingleNumbers.Except(RedBlack[0]).ToHashSet();
+        RedBlack[1].Remove(0);
+
+        for (int i = 1; i < 37; i++)
+        {
+            EvenOdd[i % 2].Add(i);
+            HighLow[(i - 1) / 18].Add(i);
+            Dozens[i <= 12 ? 0 : i <= 24 ? 1 : 2].Add(i);
+            Rows[(i - 1) % 3].Add(i);
+
+        }
+        for (int i = 1; i < 37; i += 3)
+        {
+            Streets.Add([i, i +1 ,i+2]);
+        }
+        for(int i = 1 ; i < 34; i++)
+        {
+            Splits.Add([i, i + 3]);
+        }
+        for(int i = 1; i < 37; i += 3)
+        {
+            Splits.Add([i, i + 1]);
+            Splits.Add([i +1 , i + 2]);
+        }
+
     }
 
     /// <summary>

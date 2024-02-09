@@ -1,0 +1,12 @@
+/home/henry/Htl_Leonding/2_AHIF/022_Roulette/Roulette.Logic/bin/Debug/net8.0/Roulette.Logic.deps.json
+/home/henry/Htl_Leonding/2_AHIF/022_Roulette/Roulette.Logic/bin/Debug/net8.0/Roulette.Logic.dll
+/home/henry/Htl_Leonding/2_AHIF/022_Roulette/Roulette.Logic/bin/Debug/net8.0/Roulette.Logic.pdb
+/home/henry/Htl_Leonding/2_AHIF/022_Roulette/Roulette.Logic/obj/Debug/net8.0/Roulette.Logic.GeneratedMSBuildEditorConfig.editorconfig
+/home/henry/Htl_Leonding/2_AHIF/022_Roulette/Roulette.Logic/obj/Debug/net8.0/Roulette.Logic.AssemblyInfoInputs.cache
+/home/henry/Htl_Leonding/2_AHIF/022_Roulette/Roulette.Logic/obj/Debug/net8.0/Roulette.Logic.AssemblyInfo.cs
+/home/henry/Htl_Leonding/2_AHIF/022_Roulette/Roulette.Logic/obj/Debug/net8.0/Roulette.Logic.csproj.CoreCompileInputs.cache
+/home/henry/Htl_Leonding/2_AHIF/022_Roulette/Roulette.Logic/obj/Debug/net8.0/Roulette.Logic.sourcelink.json
+/home/henry/Htl_Leonding/2_AHIF/022_Roulette/Roulette.Logic/obj/Debug/net8.0/Roulette.Logic.dll
+/home/henry/Htl_Leonding/2_AHIF/022_Roulette/Roulette.Logic/obj/Debug/net8.0/refint/Roulette.Logic.dll
+/home/henry/Htl_Leonding/2_AHIF/022_Roulette/Roulette.Logic/obj/Debug/net8.0/Roulette.Logic.pdb
+/home/henry/Htl_Leonding/2_AHIF/022_Roulette/Roulette.Logic/obj/Debug/net8.0/ref/Roulette.Logic.dll
