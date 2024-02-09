@@ -1,0 +1,15 @@
+/home/henry/Htl_Leonding/2_AHIF/021_enumes/bin/Debug/net8.0/021_enumes
+/home/henry/Htl_Leonding/2_AHIF/021_enumes/bin/Debug/net8.0/021_enumes.deps.json
+/home/henry/Htl_Leonding/2_AHIF/021_enumes/bin/Debug/net8.0/021_enumes.runtimeconfig.json
+/home/henry/Htl_Leonding/2_AHIF/021_enumes/bin/Debug/net8.0/021_enumes.dll
+/home/henry/Htl_Leonding/2_AHIF/021_enumes/bin/Debug/net8.0/021_enumes.pdb
+/home/henry/Htl_Leonding/2_AHIF/021_enumes/obj/Debug/net8.0/021_enumes.GeneratedMSBuildEditorConfig.editorconfig
+/home/henry/Htl_Leonding/2_AHIF/021_enumes/obj/Debug/net8.0/021_enumes.AssemblyInfoInputs.cache
+/home/henry/Htl_Leonding/2_AHIF/021_enumes/obj/Debug/net8.0/021_enumes.AssemblyInfo.cs
+/home/henry/Htl_Leonding/2_AHIF/021_enumes/obj/Debug/net8.0/021_enumes.csproj.CoreCompileInputs.cache
+/home/henry/Htl_Leonding/2_AHIF/021_enumes/obj/Debug/net8.0/021_enumes.sourcelink.json
+/home/henry/Htl_Leonding/2_AHIF/021_enumes/obj/Debug/net8.0/021_enumes.dll
+/home/henry/Htl_Leonding/2_AHIF/021_enumes/obj/Debug/net8.0/refint/021_enumes.dll
+/home/henry/Htl_Leonding/2_AHIF/021_enumes/obj/Debug/net8.0/021_enumes.pdb
+/home/henry/Htl_Leonding/2_AHIF/021_enumes/obj/Debug/net8.0/021_enumes.genruntimeconfig.cache
+/home/henry/Htl_Leonding/2_AHIF/021_enumes/obj/Debug/net8.0/ref/021_enumes.dll
