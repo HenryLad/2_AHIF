@@ -21,9 +21,9 @@ do
 
 
 
-} while (int.Parse(Input) > change.TotalAmount);
+} while (change.IsEnoughMoneySetter(Input) == false);
 
-System.Console.WriteLine($"Your exchange money is : {change.GetChange(input)} E");
+System.Console.WriteLine($"Your exchange money is :  E");
 
 
 

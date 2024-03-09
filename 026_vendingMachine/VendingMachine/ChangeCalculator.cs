@@ -7,6 +7,12 @@ public class ChangeCalculator()
 
    public bool IsEnoughMoney { get; private set; } = false;
 
+   public bool IsEnoughMoneySetter(string Input)
+   {
+      if(TotalAmount >= int.Parse(Input)) {IsEnoughMoney = true; return true;}
+      else {return false;}
+   }
+   
    public void AddCoin(string cents)
    {
       string Input = "0";
@@ -14,11 +20,12 @@ public class ChangeCalculator()
       {
          if(char.IsDigit(cents[i])){Input += cents[i];}
       }
-      if(cents.Contains('C')){TotalAmount += checked(int.Parse(Input) / 100);}
-      else{TotalAmount += checked(int.Parse(Input));}
+      if(cents.Contains('C')){TotalAmount += checked(double.Parse(Input) / 100);}
+      else{TotalAmount += checked(double.Parse(Input));}
+
    }
 
-   public double GetChange(string input)
+   /*public double GetChange(string input)
    {
       string Input = "0";
       for(int i = 0; i < input.Length; i++)
@@ -33,6 +40,6 @@ public class ChangeCalculator()
       {
          return TotalAmount - int.Parse(Input);
       }
-   }
+   }*/
 
 }
