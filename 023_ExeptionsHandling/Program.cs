@@ -1,4 +1,4 @@
-﻿ExplicitException()
+﻿//ExplicitException();
 //CallLevel1();
 //ArgumentException(null);
 //ArgumentException(-1);
@@ -10,7 +10,7 @@
 //ThrowMyException();
 //CatchAllExceptions();
 //CatchAllExceptionsAndAccessException();
-//CatchSpecificExceptions();
+CatchSpecificExceptions();
 //CatchWithFilter();
 //RethrowException();
 //FinallyBlock();
@@ -227,3 +227,12 @@ class MyException : Exception
 
     public MyException(string message, Exception innerException) : base(message, innerException) { }
 }
+
+
+
+
+
+
+
+
+

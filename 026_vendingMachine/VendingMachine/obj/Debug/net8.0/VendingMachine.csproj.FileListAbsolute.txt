@@ -1,0 +1,15 @@
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\026_vendingMachine\VendingMachine\bin\Debug\net8.0\VendingMachine.exe
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\026_vendingMachine\VendingMachine\bin\Debug\net8.0\VendingMachine.deps.json
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\026_vendingMachine\VendingMachine\bin\Debug\net8.0\VendingMachine.runtimeconfig.json
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\026_vendingMachine\VendingMachine\bin\Debug\net8.0\VendingMachine.dll
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\026_vendingMachine\VendingMachine\bin\Debug\net8.0\VendingMachine.pdb
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\026_vendingMachine\VendingMachine\obj\Debug\net8.0\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\026_vendingMachine\VendingMachine\obj\Debug\net8.0\VendingMachine.AssemblyInfoInputs.cache
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\026_vendingMachine\VendingMachine\obj\Debug\net8.0\VendingMachine.AssemblyInfo.cs
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\026_vendingMachine\VendingMachine\obj\Debug\net8.0\VendingMachine.csproj.CoreCompileInputs.cache
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\026_vendingMachine\VendingMachine\obj\Debug\net8.0\VendingMachine.sourcelink.json
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\026_vendingMachine\VendingMachine\obj\Debug\net8.0\VendingMachine.dll
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\026_vendingMachine\VendingMachine\obj\Debug\net8.0\refint\VendingMachine.dll
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\026_vendingMachine\VendingMachine\obj\Debug\net8.0\VendingMachine.pdb
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\026_vendingMachine\VendingMachine\obj\Debug\net8.0\VendingMachine.genruntimeconfig.cache
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\026_vendingMachine\VendingMachine\obj\Debug\net8.0\ref\VendingMachine.dll

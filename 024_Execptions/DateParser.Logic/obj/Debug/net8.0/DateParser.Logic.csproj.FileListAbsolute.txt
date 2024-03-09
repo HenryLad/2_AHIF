@@ -1,0 +1,12 @@
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\024_Execptions\DateParser.Logic\obj\Debug\net8.0\DateParser.Logic.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\024_Execptions\DateParser.Logic\obj\Debug\net8.0\DateParser.Logic.AssemblyInfoInputs.cache
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\024_Execptions\DateParser.Logic\obj\Debug\net8.0\DateParser.Logic.AssemblyInfo.cs
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\024_Execptions\DateParser.Logic\obj\Debug\net8.0\DateParser.Logic.csproj.CoreCompileInputs.cache
+c:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\024_Execptions\DateParser.Logic\obj\Debug\net8.0\DateParser.Logic.sourcelink.json
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\024_Execptions\DateParser.Logic\bin\Debug\net8.0\DateParser.Logic.deps.json
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\024_Execptions\DateParser.Logic\bin\Debug\net8.0\DateParser.Logic.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\024_Execptions\DateParser.Logic\bin\Debug\net8.0\DateParser.Logic.pdb
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\024_Execptions\DateParser.Logic\obj\Debug\net8.0\DateParser.Logic.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\024_Execptions\DateParser.Logic\obj\Debug\net8.0\refint\DateParser.Logic.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\024_Execptions\DateParser.Logic\obj\Debug\net8.0\DateParser.Logic.pdb
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\024_Execptions\DateParser.Logic\obj\Debug\net8.0\ref\DateParser.Logic.dll

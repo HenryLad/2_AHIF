@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/home/henry/Htl_Leonding/2_AHIF/023_ExeptionsHandling/023_ExeptionsHandling.csproj": {}
+    "C:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\023_ExeptionsHandling\\023_ExeptionsHandling.csproj": {}
   },
   "projects": {
-    "/home/henry/Htl_Leonding/2_AHIF/023_ExeptionsHandling/023_ExeptionsHandling.csproj": {
+    "C:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\023_ExeptionsHandling\\023_ExeptionsHandling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/henry/Htl_Leonding/2_AHIF/023_ExeptionsHandling/023_ExeptionsHandling.csproj",
+        "projectUniqueName": "C:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\023_ExeptionsHandling\\023_ExeptionsHandling.csproj",
         "projectName": "023_ExeptionsHandling",
-        "projectPath": "/home/henry/Htl_Leonding/2_AHIF/023_ExeptionsHandling/023_ExeptionsHandling.csproj",
-        "packagesPath": "/home/henry/.nuget/packages/",
-        "outputPath": "/home/henry/Htl_Leonding/2_AHIF/023_ExeptionsHandling/obj/",
+        "projectPath": "C:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\023_ExeptionsHandling\\023_ExeptionsHandling.csproj",
+        "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\023_ExeptionsHandling\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/henry/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

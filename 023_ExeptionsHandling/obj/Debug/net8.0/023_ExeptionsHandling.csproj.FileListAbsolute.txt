@@ -1,0 +1,15 @@
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\023_ExeptionsHandling\bin\Debug\net8.0\023_ExeptionsHandling.exe
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\023_ExeptionsHandling\bin\Debug\net8.0\023_ExeptionsHandling.deps.json
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\023_ExeptionsHandling\bin\Debug\net8.0\023_ExeptionsHandling.runtimeconfig.json
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\023_ExeptionsHandling\bin\Debug\net8.0\023_ExeptionsHandling.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\023_ExeptionsHandling\bin\Debug\net8.0\023_ExeptionsHandling.pdb
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\023_ExeptionsHandling\obj\Debug\net8.0\023_ExeptionsHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\023_ExeptionsHandling\obj\Debug\net8.0\023_ExeptionsHandling.AssemblyInfoInputs.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\023_ExeptionsHandling\obj\Debug\net8.0\023_ExeptionsHandling.AssemblyInfo.cs
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\023_ExeptionsHandling\obj\Debug\net8.0\023_ExeptionsHandling.csproj.CoreCompileInputs.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\023_ExeptionsHandling\obj\Debug\net8.0\023_ExeptionsHandling.sourcelink.json
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\023_ExeptionsHandling\obj\Debug\net8.0\023_ExeptionsHandling.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\023_ExeptionsHandling\obj\Debug\net8.0\refint\023_ExeptionsHandling.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\023_ExeptionsHandling\obj\Debug\net8.0\023_ExeptionsHandling.pdb
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\023_ExeptionsHandling\obj\Debug\net8.0\023_ExeptionsHandling.genruntimeconfig.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\023_ExeptionsHandling\obj\Debug\net8.0\ref\023_ExeptionsHandling.dll
