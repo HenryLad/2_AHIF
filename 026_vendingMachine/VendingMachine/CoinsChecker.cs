@@ -9,10 +9,10 @@ namespace Coin.Checker
 public class Coins()
 {
    
-   public double Parse(string input)
+   public bool Parse(string input)
    {
       string cointInput = input;
-      double cointCount = 0;
+      
          if (input.IndexOf('.') != input.LastIndexOf('.'))
          {
             throw new FormatException("There must not be more than 1 Points");
@@ -25,10 +25,8 @@ public class Coins()
          {
             throw new Exception("Invalid coin value");
          }
-   if(cointInput.Contains('E')){cointCount += double.Parse(cointInput.TrimEnd('E'));}
-   else{cointCount += double.Parse(cointInput.TrimEnd('C')) / 100;}
 
-   return (cointCount * 100);
+      return true;
       
    }
 }

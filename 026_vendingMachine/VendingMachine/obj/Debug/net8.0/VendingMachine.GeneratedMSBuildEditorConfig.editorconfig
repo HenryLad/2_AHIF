@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VendingMachine
-build_property.ProjectDir = C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\026_vendingMachine\VendingMachine\
+build_property.ProjectDir = D:\Coding\C#\026_vendingMachine\VendingMachine\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
