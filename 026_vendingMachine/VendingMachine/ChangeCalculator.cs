@@ -25,7 +25,7 @@ public class ChangeCalculator()
 
    }
 
-   /*public double GetChange(string input)
+   public double GetChange(string input)
    {
       string Input = "0";
       for(int i = 0; i < input.Length; i++)
@@ -40,6 +40,6 @@ public class ChangeCalculator()
       {
          return TotalAmount - int.Parse(Input);
       }
-   }*/
+   }
 
 }
