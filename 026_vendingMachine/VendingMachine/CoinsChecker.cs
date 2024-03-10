@@ -23,7 +23,7 @@ public class Coins()
          }
          if (input != "2E" && input != "1E" && input != "50C" && input != "20C" && input != "10C")
          {
-            throw new Exception("Invalid coin value");
+            throw new FormatException("Invalid coin value");
          }
 
       return true;
