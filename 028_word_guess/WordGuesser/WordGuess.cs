@@ -40,7 +40,7 @@ public class WordGuess
     /// Note that this property is `protected`. That means that only itself and
     /// derived classes can access it. It cannot be accessed from outside the class.
     /// </remarks>
-    protected string WordToGuess { get; }
+    public string? WordToGuess { get; }
 
     /// <summary>
     /// Gets the current guess.
@@ -51,7 +51,7 @@ public class WordGuess
     /// is `protected`. That means that only itself and derived classes can access it.
     /// The getter is public. So it can be accessed from outside the class.
     /// </remarks>
-    public string CurrentGuess { get; protected set; }
+    public string? CurrentGuess { get; protected set; }
 
     /// <summary>
     /// Initializes a new instance of the <see cref="WordGuess"/> class.
@@ -61,16 +61,15 @@ public class WordGuess
     /// stores it in <see cref="WordToGuess"/>. It then calls <see cref="GetInitialGuess"/>.
     public WordGuess()
     {
-        // TODO: Implement the constructor
-        throw new NotImplementedException();
+       WordToGuess = GetRandomWord();
+       GetInitialGuess();
     }
 
     /// <summary>
     /// Gets a value indicating if the game is completed (i.e. all letter of the word have been guessed).
     /// </summary>
-    public bool Completed =>
-        // TODO: Implement the requested logic
-        throw new NotImplementedException();
+    public bool Completed => CurrentGuess == WordToGuess;
+        
 
     /// <summary>
     /// Returns a random word from <see cref="AvailableWords"/>.
@@ -78,9 +77,7 @@ public class WordGuess
     /// <returns>Random word from <see cref="AvailableWords"/></returns>
     public virtual string GetRandomWord()
     {
-        // TODO: Implement the requested logic
-        throw new NotImplementedException();
-
+        return AvailableWords[Random.Shared.Next(0, AvailableWords.Length)];
     }
 
     /// <summary>
@@ -95,8 +92,19 @@ public class WordGuess
     /// </remarks>
     public virtual string GetInitialGuess()
     {
-        // TODO: Implement the requested logic
-        throw new NotImplementedException();
+        for(int i = 0; i < WordToGuess?.Length; i++)
+        {
+            if(char.IsDigit(WordToGuess[i]) || char.IsLetter(WordToGuess[i]))
+            {
+                CurrentGuess += "_";
+            }
+            else
+            {
+                CurrentGuess += " ";
+            }
+
+        }
+        return CurrentGuess;
     }
 
     /// <summary>
@@ -114,8 +122,20 @@ public class WordGuess
     /// </remarks>
     public virtual bool Guess(char letter)
     {
-        // TODO: Implement the requested logic
-        throw new NotImplementedException();
+        if(WordToGuess.Contains(letter))
+        {
+            for(int i = 0; i < WordToGuess.Length; i++)
+            {
+                if(WordToGuess[i] == letter){CurrentGuess.Replace(CurrentGuess[i], letter) ;}
+            }
+            return true;
+        }
+        else
+        {
+            System.Console.WriteLine("Wrong gues mate");
+            return false;
+        }
+        
     }
 }
 
