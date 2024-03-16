@@ -169,36 +169,40 @@ public class EasyWordGuess : WordGuess
     /// different letters, nothing is revealed.
     /// </remarks>
     public override string GetInitialGuess()
-
     {
         string str = "abcdefghijklmnopqrstuvwxyz";
+        Random rnd = new Random();
+        List<char> pickedChars = [];
+        char rc;
+        for (int j = 0; j < 3; j++)
+        {
+            do
+            {
+                rc = str[Random.Shared.Next(0, str.Length)];
+            } while (pickedChars.Contains(rc) || !WordToGuess.Contains(rc));
+
+            pickedChars.Add(rc);
+        }
+
+        CurrentGuess = string.Empty;
+
         for (int i = 0; i < WordToGuess.Length; i++)
         {
-            Random rnd = new Random();
-            char rc = str[rnd.Next(str.Length)];
-
-            if (char.IsDigit(WordToGuess[i]) || char.IsLetter(WordToGuess[i]) && WordToGuess[i] != rc)
+            if (pickedChars.Contains(WordToGuess[i]))
+            {
+                CurrentGuess += WordToGuess[i];
+            }
+            else if (char.IsDigit(WordToGuess[i]) || char.IsLetter(WordToGuess[i]))
             {
                 CurrentGuess += "_";
-            }
-            else if(WordToGuess[i] == rc)
-            {
-                CurrentGuess += rc.ToString();
             }
             else
             {
                 CurrentGuess += " ";
             }
-
-
-
         }
 
-
-
         return CurrentGuess;
-
-
     }
 }
 
