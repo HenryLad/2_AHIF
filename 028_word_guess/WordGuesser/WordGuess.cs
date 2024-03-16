@@ -40,7 +40,7 @@ public class WordGuess
     /// Note that this property is `protected`. That means that only itself and
     /// derived classes can access it. It cannot be accessed from outside the class.
     /// </remarks>
-    public string? WordToGuess { get; }
+    protected string? WordToGuess { get; }
 
     /// <summary>
     /// Gets the current guess.
@@ -122,7 +122,7 @@ public class WordGuess
     /// </remarks>
     public virtual bool Guess(char letter)
     {
-        if (WordToGuess.ToLower().Contains(letter))
+        if (WordToGuess.ToLower().Contains(char.ToLower(letter)))
         {
             // Create a string representation of the letter
             string letterAsString = letter.ToString();
@@ -171,24 +171,31 @@ public class EasyWordGuess : WordGuess
     public override string GetInitialGuess()
 
     {
-        var ctbr = "";
-        for (int i = 0; i < 3; i++)
+        string str = "abcdefghijklmnopqrstuvwxyz";
+        for (int i = 0; i < WordToGuess.Length; i++)
         {
-            var ltr = Random.Shared.Next(0, WordToGuess.Length + 1);
-            ctbr += WordToGuess[ltr];
-        }
-        for (int i = 0; i < WordToGuess?.Length; i++)
-        {
-            if (char.IsDigit(WordToGuess[i]) || char.IsLetter(WordToGuess[i]) && WordToGuess[i] != ctbr[0] && WordToGuess[i] != ctbr[1] && WordToGuess[i] != ctbr[2])
+            Random rnd = new Random();
+            char rc = str[rnd.Next(str.Length)];
+
+            if (char.IsDigit(WordToGuess[i]) || char.IsLetter(WordToGuess[i]) && WordToGuess[i] != rc)
             {
                 CurrentGuess += "_";
             }
-            else if(WordToGuess[i] != ctbr[0] && WordToGuess[i] != ctbr[1] && WordToGuess[i] != ctbr[2])
+            else if(WordToGuess[i] == rc)
+            {
+                CurrentGuess += rc.ToString();
+            }
+            else
             {
                 CurrentGuess += " ";
             }
 
+
+
         }
+
+
+
         return CurrentGuess;
 
 

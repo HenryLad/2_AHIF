@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WordGuesser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e23bdf0bc66aaac00ceb6391e7c9698cd1de329")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76f195e9962e4587d937a5f948b2d86e499bdb2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("WordGuesser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WordGuesser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -49,4 +49,4 @@ do
 // 2. Show a message with the guessed word and the number of wrong guesses 
 
 Console.Clear();
-System.Console.WriteLine($"The right word was {game.WordToGuess} \nThe number of wrong guess were {nowg}");
+System.Console.WriteLine($"The right word was {game.CurrentGuess} \nThe number of wrong guess were {nowg}");

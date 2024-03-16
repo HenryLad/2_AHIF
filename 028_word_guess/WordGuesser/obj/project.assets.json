@@ -8,32 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\henry\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Hubi Schreiber\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\028_word_guess\\WordGuesser\\WordGuesser.csproj",
+      "projectUniqueName": "d:\\Coding\\C#\\028_word_guess\\WordGuesser\\WordGuesser.csproj",
       "projectName": "WordGuesser",
-      "projectPath": "c:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\028_word_guess\\WordGuesser\\WordGuesser.csproj",
-      "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\028_word_guess\\WordGuesser\\obj\\",
+      "projectPath": "d:\\Coding\\C#\\028_word_guess\\WordGuesser\\WordGuesser.csproj",
+      "packagesPath": "C:\\Users\\Hubi Schreiber\\.nuget\\packages\\",
+      "outputPath": "d:\\Coding\\C#\\028_word_guess\\WordGuesser\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Hubi Schreiber\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -46,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -67,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
