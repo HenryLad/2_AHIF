@@ -29,36 +29,37 @@ public class WordGuessMockWordGroup : WordGuess
 public class NormalGuessTests
 {
     [Fact]
-    public void WordGuess_InitializesCurrentGuess_SingleWord()
-    {
-        // Use the WordGuessMockSingleWord class to test if 
-        // the CurrentGuess property is initialized correctly.
 
-        // TODO: Implement the requested logic
-        throw new NotImplementedException();
+    public void TestCurrentGuessInitialization()
+    {
+        // Arrange
+        var word = new WordGuessMockSingleWord();
+
+        // Act
+        string initialGuess = word.CurrentGuess;
+
+        // Assert
+        Assert.Equal("____", initialGuess);
     }
 
     [Fact]
     public void WordGuess_InitializesCurrentGuess_WordGroup()
     {
-        // Use the WordGuessMockWordGroup class to test if
-        // the CurrentGuess property is initialized correctly when
-        // the word to guess is a group of words.
+        var word = new WordGuessMockWordGroup();
 
-        // TODO: Implement the requested logic
-        throw new NotImplementedException();
+        // Act
+        string initialGuess = word.CurrentGuess;
+
+        // Assert
+        Assert.Equal("____ ____", initialGuess);
     }
 
     [Fact]
     public void WordGuess_Guess_ReturnsTrue()
     {
-        // Use the WordGuessMockSingleWord class to test if
-        // the Guess method returns true when the guessed letter is in the word.
-        // Use the letter "t" to also verify if the method is case-insensitive
-        // and replaces all occurrences of the letter in the word.
+        var w = new WordGuessMockSingleWord();
 
-        // TODO: Implement the requested logic
-        throw new NotImplementedException();
+        Assert.True(w.Guess('T'));
     }
 
     [Fact]
@@ -66,8 +67,8 @@ public class NormalGuessTests
     {
         // Use the WordGuessMockSingleWord class to test if
         // the Guess method returns false when the guessed letter is not in the word.
+        var w = new WordGuessMockSingleWord();
 
-        // TODO: Implement the requested logic
-        throw new NotImplementedException();
+        Assert.False(w.Guess('K'));
     }
 }
