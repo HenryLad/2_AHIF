@@ -9,7 +9,7 @@ public class HardWordGuessMockSingleWord : HardWordGuess
     /// This method is overriden to return a single, fixed word instead
     /// of a random word. This is useful for testing purposes.
     /// </remarks>
-    public override string GetRandomWord() => "Snowspacemobile";
+    public override string GetRandomWord() => "Snowmobile";
 }
 
 public class HardGuessTests
@@ -22,8 +22,10 @@ public class HardGuessTests
         // and make sure that the occurrence of "S" (uppercase) 
         // was not revealed.
 
-        // TODO: Implement the requested logic
-        throw new NotImplementedException();
+        var word = new HardWordGuessMockSingleWord();
+        word.GetInitialGuess();
+        word.Guess('s');
+         Assert.Equal("____________________", word.CurrentGuess);
     }
 
     [Fact]
@@ -34,7 +36,9 @@ public class HardGuessTests
         // the guessed letter. Guess the letter "o" and make sure
         // that only the first occurrence is revealed.
 
-        // TODO: Implement the requested logic
-        throw new NotImplementedException();
+        var word = new HardWordGuessMockSingleWord();
+        word.GetInitialGuess();
+        word.Guess('o');
+         Assert.Equal("__o_________________", word.CurrentGuess);
     }
 }

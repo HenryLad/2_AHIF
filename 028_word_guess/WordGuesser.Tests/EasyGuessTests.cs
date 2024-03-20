@@ -33,9 +33,9 @@ public class EasyGuessTests
         // the CurrentGuess property is initialized correctly.
         // The test makes sure that exactly three different letters
         // are revealed in the initial guess.
-
-        // TODO: Implement the requested logic
-        throw new NotImplementedException();
+        var word = new EasyWordGuessMockSingleWord().GetRandomWord();
+        Assert.Equal("Snowmobile", word);
+        
     }
 
     [Fact]
@@ -46,8 +46,10 @@ public class EasyGuessTests
         // The test makes sure that the initial guess contains only
         // underscores because the word to guess contains less than
         // four different letters.
-
-        // TODO: Implement the requested logic
-        throw new NotImplementedException();
+        var word = new EasyWordGuessMockShort();
+        word.GetRandomWord();
+        var gig = word.GetInitialGuess().ToString();
+        Assert.Equal("___", gig);
+        
     }
 }

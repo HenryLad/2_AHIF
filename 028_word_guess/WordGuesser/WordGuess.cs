@@ -104,7 +104,7 @@ public class WordGuess
             }
 
         }
-        return CurrentGuess;
+        return CurrentGuess!;
     }
 
     /// <summary>
@@ -122,7 +122,7 @@ public class WordGuess
     /// </remarks>
     public virtual bool Guess(char letter)
     {
-        if (WordToGuess.ToLower().Contains(char.ToLower(letter)))
+        if (WordToGuess!.ToLower().Contains(char.ToLower(letter)))
         {
             // Create a string representation of the letter
             string letterAsString = letter.ToString();
@@ -134,7 +134,7 @@ public class WordGuess
                 if (WordToGuess[i] == letter)
                 {
                     // Replace the underscore at index i in CurrentGuess with the guessed letter
-                    CurrentGuess = CurrentGuess.Remove(i, 1).Insert(i, letterAsString);
+                    CurrentGuess = CurrentGuess!.Remove(i, 1).Insert(i, letterAsString);
                 }
             }
             return true;
@@ -179,14 +179,14 @@ public class EasyWordGuess : WordGuess
             do
             {
                 rc = str[Random.Shared.Next(0, str.Length)];
-            } while (pickedChars.Contains(rc) || !WordToGuess.Contains(rc));
+            } while (pickedChars.Contains(rc) || WordToGuess!.Contains(rc));
 
             pickedChars.Add(rc);
         }
 
         CurrentGuess = string.Empty;
 
-        for (int i = 0; i < WordToGuess.Length; i++)
+        for (int i = 0; i < WordToGuess!.Length; i++)
         {
             if (pickedChars.Contains(WordToGuess[i]))
             {
@@ -228,8 +228,8 @@ public class HardWordGuess : WordGuess
     /// the letter in the word.
     /// </remarks>
     public override bool Guess(char letter)
-    {
-        if (WordToGuess.Contains(letter))
+    {   List<char> uc = [];
+        if (WordToGuess!.Contains(letter))
         {
             // Create a string representation of the letter
             string letterAsString = letter.ToString();
@@ -238,10 +238,11 @@ public class HardWordGuess : WordGuess
             for (int i = 0; i < WordToGuess.Length; i++)
             {
                 // If the character matches the guessed letter, replace the corresponding underscore in CurrentGuess
-                if (WordToGuess[i] == letter)
+                if (WordToGuess[i] == letter && !uc.Contains(letter)) 
                 {
                     // Replace the underscore at index i in CurrentGuess with the guessed letter
-                    CurrentGuess = CurrentGuess.Remove(i, 1).Insert(i, letterAsString);
+                    CurrentGuess = CurrentGuess!.Remove(i, 1).Insert(i, letterAsString);
+                    uc.Add(letter);
                 }
             }
             return true;
