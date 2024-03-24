@@ -1,0 +1,15 @@
+D:\Coding\C#\029_shaper\bin\Debug\net8.0\029_shaper.exe
+D:\Coding\C#\029_shaper\bin\Debug\net8.0\029_shaper.deps.json
+D:\Coding\C#\029_shaper\bin\Debug\net8.0\029_shaper.runtimeconfig.json
+D:\Coding\C#\029_shaper\bin\Debug\net8.0\029_shaper.dll
+D:\Coding\C#\029_shaper\bin\Debug\net8.0\029_shaper.pdb
+D:\Coding\C#\029_shaper\obj\Debug\net8.0\029_shaper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\029_shaper\obj\Debug\net8.0\029_shaper.AssemblyInfoInputs.cache
+D:\Coding\C#\029_shaper\obj\Debug\net8.0\029_shaper.AssemblyInfo.cs
+D:\Coding\C#\029_shaper\obj\Debug\net8.0\029_shaper.csproj.CoreCompileInputs.cache
+D:\Coding\C#\029_shaper\obj\Debug\net8.0\029_shaper.sourcelink.json
+D:\Coding\C#\029_shaper\obj\Debug\net8.0\029_shaper.dll
+D:\Coding\C#\029_shaper\obj\Debug\net8.0\refint\029_shaper.dll
+D:\Coding\C#\029_shaper\obj\Debug\net8.0\029_shaper.pdb
+D:\Coding\C#\029_shaper\obj\Debug\net8.0\029_shaper.genruntimeconfig.cache
+D:\Coding\C#\029_shaper\obj\Debug\net8.0\ref\029_shaper.dll
