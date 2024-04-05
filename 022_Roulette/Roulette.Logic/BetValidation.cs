@@ -17,6 +17,7 @@ public enum MultiNumberBetType
 /// </remarks>
 public class Bet(MultiNumberBetType betType, HashSet<int> numbers)
 {
+    Roulette r = new Roulette();
     /// <summary>
     /// Checks if the bet is valid.
     /// </summary>
@@ -25,8 +26,10 @@ public class Bet(MultiNumberBetType betType, HashSet<int> numbers)
     /// </returns>
     public bool Validate()
     {
-        // TODO: Implement this method
-        throw new NotImplementedException();
+       if(r.SingleNumbers(UserInteraction) == true)
+       {
+        
+       }
     }
 
     /// <summary>

@@ -39,6 +39,11 @@ public class PossibleNumbers
             Splits.Add([i, i + 1]);
             Splits.Add([i +1 , i + 2]);
         }
+        for(int i = 0; i < 37; i++)
+        {
+            Squares.Add([i, i + 1, i + 4. i + 5]);
+            Squares.Add()
+        }
 
     }
 

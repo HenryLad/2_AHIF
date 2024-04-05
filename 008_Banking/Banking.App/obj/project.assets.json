@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\henry\\.nuget\\packages\\": {}
+    "/home/henry/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\008_Banking\\Banking.App\\Banking.App.csproj",
+      "projectUniqueName": "/home/henry/Htl_Leonding/2_AHIF/008_Banking/Banking.App/Banking.App.csproj",
       "projectName": "Banking.App",
-      "projectPath": "C:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\008_Banking\\Banking.App\\Banking.App.csproj",
-      "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\008_Banking\\Banking.App\\obj\\",
+      "projectPath": "/home/henry/Htl_Leonding/2_AHIF/008_Banking/Banking.App/Banking.App.csproj",
+      "packagesPath": "/home/henry/.nuget/packages/",
+      "outputPath": "/home/henry/Htl_Leonding/2_AHIF/008_Banking/Banking.App/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/henry/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\008_Banking\\Banking.Logic\\Banking.Logic.csproj": {
-              "projectPath": "C:\\Users\\henry\\Dropbox\\Htl_Leonding\\2_Klasse\\Programmieren\\008_Banking\\Banking.Logic\\Banking.Logic.csproj"
+            "/home/henry/Htl_Leonding/2_AHIF/008_Banking/Banking.Logic/Banking.Logic.csproj": {
+              "projectPath": "/home/henry/Htl_Leonding/2_AHIF/008_Banking/Banking.Logic/Banking.Logic.csproj"
             }
           }
         }
@@ -82,7 +82,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23463.5/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

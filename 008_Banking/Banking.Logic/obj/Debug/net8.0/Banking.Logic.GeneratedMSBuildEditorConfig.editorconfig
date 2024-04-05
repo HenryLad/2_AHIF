@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Banking.Logic
-build_property.ProjectDir = C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\008_Banking\Banking.Logic\
+build_property.ProjectDir = /home/henry/Htl_Leonding/2_AHIF/008_Banking/Banking.Logic/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

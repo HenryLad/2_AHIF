@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("021_enumes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd24de1e8558673ac3e047732a44b56b2ecfa4c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b898844e8b80b1c4f4ebdd43a031bf32ed2f1eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("021_enumes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("021_enumes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

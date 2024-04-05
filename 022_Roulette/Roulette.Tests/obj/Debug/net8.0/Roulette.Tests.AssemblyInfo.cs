@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Roulette.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b731f91236d9a8dffa73c4a35b57ae959b4b5a26")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a022075d8ee445e75394a1e80a89bc32ea0fc9c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Roulette.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Roulette.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
