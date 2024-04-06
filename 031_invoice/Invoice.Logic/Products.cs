@@ -1,4 +1,6 @@
-﻿namespace Invoice.Logic;
+﻿using System.Globalization;
+
+namespace Invoice.Logic;
 
 public enum UnitOfMeasure
 {
@@ -39,10 +41,43 @@ public class ProductImporter
     /// - IsMultiPack is true when unit of measure is not Pieces
     /// In all cases, the exception message should contain a meaningful error message.
     /// </remarks>
-    public IEnumerable<Product> Import(string[] lines)
+public IEnumerable<Product> Import(string[] lines)
+{
+    if(lines.Length == 0) throw new ProductImportException("The File is Empty");
+    string hl = "EAN,Name,VATPercentage,NetPrice,UnitOfMeasure,IsMultiPack";
+    if(lines[0] != hl) throw new ProductImportException("The Headerline is invalid");
+
+    List<Product> products = new List<Product>();
+
+    for(int i = 1; i < lines.Length; i++)
     {
-        throw new NotImplementedException();
+        string[] columns = lines[i].Split(',');
+
+        if(columns.Length != 6) throw new ProductImportException("Invalid line format");
+        if (columns[4] != "pcs" && columns[4] != "kg") { throw new ProductImportException("The Unit of Messagerment ist not correct"); }
+        if (columns[2] != "10" && columns[2] != "20") { throw new ProductImportException("invalid Percantage of VAT Percent please use 10 & 20 "); }
+        if (decimal.Parse(columns[3]) < 0) { throw new ProductImportException("The Price shloud not be neagtive"); }
+        if(!decimal.TryParse(columns[3], CultureInfo.InvariantCulture, out var Price)){throw new ProductImportException("The Net Price should not contain anything other than Digits");}
+
+        var VATP = VATPercentage.Standard;
+        var UOM = UnitOfMeasure.Kilograms;
+        if (columns[2] == "10") { VATP = VATPercentage.Reduced; }
+        if (columns[4] == "pcs") { UOM = UnitOfMeasure.Pieces; }
+
+        var product = new Product(
+            columns[0],
+            columns[1],
+            VATP,
+            Price,
+            UOM,
+            bool.Parse(columns[5])
+        );
+
+        products.Add(product);
     }
+
+    return products;
+}
 }
 
 public class ProductImportException : Exception

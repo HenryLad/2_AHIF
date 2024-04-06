@@ -1,3 +1,5 @@
+using System.Globalization;
+
 namespace Invoice.Logic;
 
 public abstract class Line { }
@@ -31,8 +33,52 @@ public class LineImporter
     /// </remarks>
     public Line Import(string line)
     {
-        throw new NotImplementedException();
+        if (string.IsNullOrWhiteSpace(line))
+        {
+            throw new InvoiceLineImportException("Line is empty");
+        }
+
+        var parts = line.Split(',');
+
+        if (parts.Length < 2)
+        {
+            throw new InvoiceLineImportException("Line is missing data");
+        }
+
+        if (parts[0] == "IL")
+        {
+            if (parts.Length != 3)
+            {
+                throw new InvoiceLineImportException("Invoice line is missing data");
+            }
+
+            if (!decimal.TryParse(parts[2], CultureInfo.InvariantCulture, out var quantity) || quantity < 0)
+            {
+                throw new InvoiceLineImportException("Quantity is not a number");
+            }
+
+            return new InvoiceLine(parts[1], quantity);
+        }
+        else if (parts[0] == "D")
+        {
+            if (parts.Length != 2)
+            {
+                throw new InvoiceLineImportException("Discount line is missing data");
+            }
+
+            if (!decimal.TryParse(parts[1], CultureInfo.InvariantCulture, out var percentage) || percentage < 0)
+            {
+                throw new InvoiceLineImportException("Percentage is not a number");
+            }
+
+            return new DiscountLine(percentage);
+        }
+        else
+        {
+            throw new InvoiceLineImportException("Unknown line type");
+        }
     }
+    
 
     /// <summary>
     /// Imports an invoice and discount lines from the given string array.
@@ -51,6 +97,8 @@ public class LineImporter
     /// </remarks>
     public IEnumerable<Line> Import(string[] lines)
     {
+        if(lines.Length == 0){throw new InvoiceLineImportException("There are no lines to be compiled");}
+        
         throw new NotImplementedException();
     }
 }
