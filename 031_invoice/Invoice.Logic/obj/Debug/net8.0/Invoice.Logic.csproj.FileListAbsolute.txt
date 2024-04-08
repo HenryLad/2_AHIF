@@ -10,3 +10,15 @@
 /home/henry/Htl_Leonding/2_AHIF/031_invoice/Invoice.Logic/obj/Debug/net8.0/refint/Invoice.Logic.dll
 /home/henry/Htl_Leonding/2_AHIF/031_invoice/Invoice.Logic/obj/Debug/net8.0/Invoice.Logic.pdb
 /home/henry/Htl_Leonding/2_AHIF/031_invoice/Invoice.Logic/obj/Debug/net8.0/ref/Invoice.Logic.dll
+d:\Coding\C#\031_invoice\Invoice.Logic\bin\Debug\net8.0\Invoice.Logic.deps.json
+d:\Coding\C#\031_invoice\Invoice.Logic\bin\Debug\net8.0\Invoice.Logic.dll
+d:\Coding\C#\031_invoice\Invoice.Logic\bin\Debug\net8.0\Invoice.Logic.pdb
+d:\Coding\C#\031_invoice\Invoice.Logic\obj\Debug\net8.0\Invoice.Logic.GeneratedMSBuildEditorConfig.editorconfig
+d:\Coding\C#\031_invoice\Invoice.Logic\obj\Debug\net8.0\Invoice.Logic.AssemblyInfoInputs.cache
+d:\Coding\C#\031_invoice\Invoice.Logic\obj\Debug\net8.0\Invoice.Logic.AssemblyInfo.cs
+d:\Coding\C#\031_invoice\Invoice.Logic\obj\Debug\net8.0\Invoice.Logic.csproj.CoreCompileInputs.cache
+d:\Coding\C#\031_invoice\Invoice.Logic\obj\Debug\net8.0\Invoice.Logic.sourcelink.json
+d:\Coding\C#\031_invoice\Invoice.Logic\obj\Debug\net8.0\Invoice.Logic.dll
+d:\Coding\C#\031_invoice\Invoice.Logic\obj\Debug\net8.0\refint\Invoice.Logic.dll
+d:\Coding\C#\031_invoice\Invoice.Logic\obj\Debug\net8.0\Invoice.Logic.pdb
+d:\Coding\C#\031_invoice\Invoice.Logic\obj\Debug\net8.0\ref\Invoice.Logic.dll

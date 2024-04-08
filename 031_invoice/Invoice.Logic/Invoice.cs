@@ -78,7 +78,7 @@ public class LineImporter
             throw new InvoiceLineImportException("Unknown line type");
         }
     }
-    
+
 
     /// <summary>
     /// Imports an invoice and discount lines from the given string array.
@@ -95,11 +95,29 @@ public class LineImporter
     /// - The same EAN appears multiple times in the lines
     /// In all cases, the exception message should contain a meaningful error message.
     /// </remarks>
-    public IEnumerable<Line> Import(string[] lines)
+    ////// 
+    /// 
+
+    public IEnumerable<Line> Importer(string[] lines)
     {
-        if(lines.Length == 0){throw new InvoiceLineImportException("There are no lines to be compiled");}
+        List<Line> line = [];
         
-        throw new NotImplementedException();
+        HashSet<string> eanSet = new HashSet<string>();
+        if (lines.Length == 0) { throw new InvoiceLineImportException("There are no lines to be compiled"); }
+        for (int j = 0; j < lines.Length; j++)
+        {
+            string[] columns = lines[j].Split(',');
+            var result = Import(lines[j]);
+            if (columns.Length < 2 || columns.Length > 3) { throw new InvoiceLineImportException("There are not engouh/to much arguments in there."); }
+            if(!eanSet.Add(columns[1])) throw new InvoiceLineImportException("The same EAN is not allowed to accour twice");
+
+            line.Add(result); 
+        }
+
+        return line;
+
+
+
     }
 }
 

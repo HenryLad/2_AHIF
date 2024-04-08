@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tbOhOl0s3wXnlP0+bF93jLpUjL6YBKtntaOY5AKnp3bHA/xFLik01M/VEAMQhLyK4odeexhyUPjbywO4qPpqow==",
+  "dgSpecHash": "mldN26h1ZhrpdPtDG4GPUEUH+TFvotPZHWioyErM3jnDVrZwApFIcKqH4z81UdP0FvhFTmwfqPgmLpTAdLjf9g==",
   "success": true,
-  "projectFilePath": "/home/henry/Htl_Leonding/2_AHIF/031_invoice/Invoice.Logic/Invoice.Logic.csproj",
+  "projectFilePath": "D:\\Coding\\C#\\031_invoice\\Invoice.Logic\\Invoice.Logic.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -43,9 +43,9 @@ public class ProductImporter
     /// </remarks>
 public IEnumerable<Product> Import(string[] lines)
 {
-    if(lines.Length == 0) throw new ProductImportException("The File is Empty");
-    string hl = "EAN,Name,VATPercentage,NetPrice,UnitOfMeasure,IsMultiPack";
-    if(lines[0] != hl) throw new ProductImportException("The Headerline is invalid");
+    string hl = "EAN,Name,VATPercentage,NetPrice,UnitOfMeasure,IsMultiPack\r";
+    if(lines.Length == 0) {throw new ProductImportException("The File is Empty");}
+    if(lines[0] != hl) {throw new ProductImportException("The Headerline is invalid");}
 
     List<Product> products = new List<Product>();
 

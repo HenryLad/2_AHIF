@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/henry/.nuget/packages/": {}
+    "C:\\Users\\Hubi Schreiber\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/henry/Htl_Leonding/2_AHIF/031_invoice/Invoice.Logic/Invoice.Logic.csproj",
+      "projectUniqueName": "d:\\Coding\\C#\\031_invoice\\Invoice.Logic\\Invoice.Logic.csproj",
       "projectName": "Invoice.Logic",
-      "projectPath": "/home/henry/Htl_Leonding/2_AHIF/031_invoice/Invoice.Logic/Invoice.Logic.csproj",
-      "packagesPath": "/home/henry/.nuget/packages/",
-      "outputPath": "/home/henry/Htl_Leonding/2_AHIF/031_invoice/Invoice.Logic/obj/",
+      "projectPath": "d:\\Coding\\C#\\031_invoice\\Invoice.Logic\\Invoice.Logic.csproj",
+      "packagesPath": "C:\\Users\\Hubi Schreiber\\.nuget\\packages\\",
+      "outputPath": "d:\\Coding\\C#\\031_invoice\\Invoice.Logic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/henry/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Hubi Schreiber\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
